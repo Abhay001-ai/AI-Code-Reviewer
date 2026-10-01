@@ -1,10 +1,8 @@
 # AI Code Reviewer
 
-A focused code review workspace powered by Node.js, Express, and Google Gemini.
-
 ## Setup
 
-1. Install dependencies: `npm install`
+1. After downloading the project open terminal in root folder and then run `npm install`.
 2. Change `.env.example` to `.env`.
 3. Add your Gemini API key to `.env`.
 4. Start the app: `npm start`
